@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# Data files (not versioned)
+data/
+*.csv
+*.parquet
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+Add .gitignore
